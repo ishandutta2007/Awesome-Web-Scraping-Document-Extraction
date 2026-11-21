@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesom--Awesome-Awesome"><img src="https://img.shields.io/badge/Awomome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Web-Scraping-Document-Extraction/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Scraping-Document-Extraction?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Web-Scraping-Document-Extraction/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Scraping-Document-Extraction?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Web-Scraping-Document-Extraction/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Scraping-Document-Extraction?style=flat-square&logo=github" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Web-Scraping-Document-Extraction/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Web-Scraping-Document-Extraction?style=flat-square" alt="Issues"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Web-Scraping-Document-Extraction/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Web-Scraping-Document-Extraction?style=flat-square" alt="License"/></a>
@@ -70,70 +70,70 @@ A comprehensive comparison of top web scraping, stealth proxy rotation, anti-bot
 
 Curated list of leading open-source web crawlers, headless browser automation frameworks, stealth drivers, and document extraction engines. Sorted in descending order by GitHub stargazers count.
 
-1. **[Firecrawl](https://github.com/firecrawl/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers)  
+1. **[Firecrawl](https://github.com/firecrawl/firecrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers)  
    🔥 Open-source web crawler and scraping engine that turns entire websites into clean, LLM-ready Markdown and structured data schemas with zero setup.
 
-2. **[Browser-Use](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+2. **[Browser-Use](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
    🤖 Open-source Python framework connecting AI agents to headless browsers for autonomous web browsing, dynamic interaction, and deep page data extraction.
 
-3. **[Scrapling](https://github.com/D4Vinci/Scrapling)** [![GitHub stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=social&color=white)](https://github.com/D4Vinci/Scrapling/stargazers)  
+3. **[Scrapling](https://github.com/D4Vinci/Scrapling)** [![GitHub_Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=social&color=white)](https://github.com/D4Vinci/Scrapling/stargazers)  
    ⚡ Adaptive Python web scraping framework engineered for ultra-fast parsing, stealth fetching, and resilient DOM element tracking across site layout modifications.
 
-4. **[Playwright](https://github.com/microsoft/playwright)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+4. **[Playwright](https://github.com/microsoft/playwright)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
    🎭 Microsoft's cross-browser automation framework enabling reliable headless scraping, end-to-end testing, network request interception, and full JavaScript execution across Chromium, Firefox, and WebKit.
 
-5. **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
+5. **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub_Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
    🎪 Google Chrome team's official Node.js library for automating headless Chrome and Chromium, widely used for web scraping, automated screenshots, and PDF rendering.
 
-6. **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
+6. **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
    🧠 Leading open-source RAG engine based on deep document understanding that extracts, parses, and structures complex PDFs, tables, slides, and web documents with visual layout analysis.
 
-7. **[Crawl4AI](https://github.com/unclecode/crawl4ai)** [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
+7. **[Crawl4AI](https://github.com/unclecode/crawl4ai)** [![GitHub_Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
    🚀 High-speed, open-source asynchronous web crawler and scraper tailored for LLM applications, RAG pipelines, and instant HTML-to-Markdown data pipelines.
 
-8. **[MinerU](https://github.com/opendatalab/MinerU)** [![GitHub stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white)](https://github.com/opendatalab/MinerU/stargazers)  
+8. **[MinerU](https://github.com/opendatalab/MinerU)** [![GitHub_Stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white)](https://github.com/opendatalab/MinerU/stargazers)  
    📚 High-precision document extraction engine that parses complex academic papers, books, and scanned PDFs into clean Markdown and structured JSON preserving mathematical formulas and tables.
 
-9. **[Docling](https://github.com/docling-project/docling)** [![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers)  
+9. **[Docling](https://github.com/docling-project/docling)** [![GitHub_Stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers)  
    📑 Advanced document parsing toolkit that converts PDF, DOCX, PPTX, HTML, and raster images into structured Markdown and JSON for generative AI workflows.
 
-10. **[Scrapy](https://github.com/scrapy/scrapy)** [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers)  
+10. **[Scrapy](https://github.com/scrapy/scrapy)** [![GitHub_Stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers)  
     🕷️ Battle-tested, high-performance Python web crawling and scraping framework featuring robust middleware pipelines, asynchronous HTTP engines, and export feeds.
 
-11. **[Marker](https://github.com/VikParuchuri/marker)** [![GitHub stars](https://img.shields.io/github/stars/VikParuchuri/marker?style=social&color=white)](https://github.com/VikParuchuri/marker/stargazers)  
+11. **[Marker](https://github.com/VikParuchuri/marker)** [![GitHub_Stars](https://img.shields.io/github/stars/VikParuchuri/marker?style=social&color=white)](https://github.com/VikParuchuri/marker/stargazers)  
     🎯 High-accuracy open-source deep learning tool for converting PDF, EPUB, and MOBI files into Markdown with flawless formatting, table detection, and LaTeX equations.
 
-12. **[CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** [![GitHub stars](https://img.shields.io/github/stars/CloakHQ/CloakBrowser?style=social&color=white)](https://github.com/CloakHQ/CloakBrowser/stargazers)  
+12. **[CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** [![GitHub_Stars](https://img.shields.io/github/stars/CloakHQ/CloakBrowser?style=social&color=white)](https://github.com/CloakHQ/CloakBrowser/stargazers)  
     🥷 Stealth Chromium binary with source-level browser fingerprint patches designed as a drop-in Playwright replacement to pass advanced anti-bot fingerprinting.
 
-13. **[ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** [![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social&color=white)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers)  
+13. **[ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social&color=white)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers)  
     🤖 Python web scraping library that uses LLMs and direct graph logic to build automated, maintenance-free data extraction pipelines from unstructured HTML.
 
-14. **[Cheerio](https://github.com/cheeriojs/cheerio)** [![GitHub stars](https://img.shields.io/github/stars/cheeriojs/cheerio?style=social&color=white)](https://github.com/cheeriojs/cheerio/stargazers)  
+14. **[Cheerio](https://github.com/cheeriojs/cheerio)** [![GitHub_Stars](https://img.shields.io/github/stars/cheeriojs/cheerio?style=social&color=white)](https://github.com/cheeriojs/cheerio/stargazers)  
     🥣 Fast, lightweight, and flexible implementation of core jQuery for server-side HTML/XML parsing and element selection in Node.js.
 
-15. **[Crawlee](https://github.com/apify/crawlee)** [![GitHub stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
+15. **[Crawlee](https://github.com/apify/crawlee)** [![GitHub_Stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
     🕸️ Robust web scraping and browser automation library for Node.js and Python supporting Playwright, Puppeteer, HTTP crawling, proxy rotation, and session management.
 
-16. **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers)  
+16. **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub_Stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers)  
     🧩 Open-source ETL library for preprocessing, partitioning, and extracting structured elements from raw PDFs, HTML, Word docs, emails, and presentations.
 
-17. **[SeleniumBase](https://github.com/SeleniumBase/SeleniumBase)** [![GitHub stars](https://img.shields.io/github/stars/SeleniumBase/SeleniumBase?style=social&color=white)](https://github.com/SeleniumBase/SeleniumBase/stargazers)  
+17. **[SeleniumBase](https://github.com/SeleniumBase/SeleniumBase)** [![GitHub_Stars](https://img.shields.io/github/stars/SeleniumBase/SeleniumBase?style=social&color=white)](https://github.com/SeleniumBase/SeleniumBase/stargazers)  
     🛡️ Python all-in-one automation framework featuring UC Mode (Undetected-Chromium) to bypass Cloudflare Turnstile, CAPTCHAs, and anti-bot systems effortlessly.
 
-18. **[Mozilla Readability](https://github.com/mozilla/readability)** [![GitHub stars](https://img.shields.io/github/stars/mozilla/readability?style=social&color=white)](https://github.com/mozilla/readability/stargazers)  
+18. **[Mozilla Readability](https://github.com/mozilla/readability)** [![GitHub_Stars](https://img.shields.io/github/stars/mozilla/readability?style=social&color=white)](https://github.com/mozilla/readability/stargazers)  
     📖 Standalone JavaScript library powering Firefox Reader View, extracting clean main article content and stripping away ads, sidebars, and navigation noise.
 
-19. **[Trafilatura](https://github.com/adbar/trafilatura)** [![GitHub stars](https://img.shields.io/github/stars/adbar/trafilatura?style=social&color=white)](https://github.com/adbar/trafilatura/stargazers)  
+19. **[Trafilatura](https://github.com/adbar/trafilatura)** [![GitHub_Stars](https://img.shields.io/github/stars/adbar/trafilatura?style=social&color=white)](https://github.com/adbar/trafilatura/stargazers)  
     📰 High-speed Python library and CLI tool for web crawling, article text extraction, and metadata discovery producing clean Markdown, JSON, and XML.
 
-20. **[Splash](https://github.com/scrapinghub/splash)** [![GitHub stars](https://img.shields.io/github/stars/scrapinghub/splash?style=social&color=white)](https://github.com/scrapinghub/splash/stargazers)  
+20. **[Splash](https://github.com/scrapinghub/splash)** [![GitHub_Stars](https://img.shields.io/github/stars/scrapinghub/splash?style=social&color=white)](https://github.com/scrapinghub/splash/stargazers)  
     💦 Lightweight, scriptable headless browser with an HTTP API designed specifically for web scraping and integration with Scrapy.
 
-21. **[Gander](https://github.com/mokshablr/gander)** [![GitHub stars](https://img.shields.io/github/stars/mokshablr/gander?style=social&color=white)](https://github.com/mokshablr/gander/stargazers)  
+21. **[Gander](https://github.com/mokshablr/gander)** [![GitHub_Stars](https://img.shields.io/github/stars/mokshablr/gander?style=social&color=white)](https://github.com/mokshablr/gander/stargazers)  
     👁️ Lightweight, zero-permission offline document viewer and local file inspector supporting PDF, Word (`.docx`), Excel, PowerPoint, ODT, RTF, Markdown, code, and `.zip` archives with in-document text search and extraction.
 
-22. **[NLM-Ingestor](https://github.com/nlmatics/nlm-ingestor)** [![GitHub stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social&color=white)](https://github.com/nlmatics/nlm-ingestor/stargazers)  
+22. **[NLM-Ingestor](https://github.com/nlmatics/nlm-ingestor)** [![GitHub_Stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social&color=white)](https://github.com/nlmatics/nlm-ingestor/stargazers)  
     📄 Parsing and layout analysis engine for extracting tables, hierarchical headings, and paragraphs from complex multi-page PDF documents.
 
 ---
